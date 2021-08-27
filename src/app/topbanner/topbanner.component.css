@@ -1,0 +1,40 @@
+h3 {
+    margin-left: 100px;
+    color: white;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+}
+
+a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+.active {
+    background-color: white;
+    color: orangered;
+}
+
+.set {
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.up {
+    background-color: red;
+    color: white;
+}
+
+a:hover {
+    background-color: chocolate;
+    color: black;
+}
